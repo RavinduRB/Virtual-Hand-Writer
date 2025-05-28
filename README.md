@@ -42,7 +42,7 @@ This project demonstrates how **gesture based interfaces** can be used to create
 
      🔹 **Python 3** – Primary programming language
      🔹 **OpenCV** – For webcam integration and image processing
-     🔹 **MediaPipe by Google** – For advanced real-time hand tracking
+     🔹 **MediaPipe** – For advanced real-time hand tracking
      🔹 **Tkinter** – To create the GUI canvas and interface
      🔹 **NumPy** – For coordinate and pixel level operations
      🔹 **Pillow (PIL)** – For image handling in Tkinter
