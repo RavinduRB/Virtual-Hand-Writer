@@ -45,6 +45,6 @@ This project demonstrates how **gesture based interfaces** can be used to create
      🔹 **MediaPipe by Google** – For advanced real-time hand tracking
      🔹 **Tkinter** – To create the GUI canvas and interface
      🔹 **NumPy** – For coordinate and pixel level operations
-     🔹 **Pillow (PIL)** – For image handling in Tkinter (optional enhancement)
+     🔹 **Pillow (PIL)** – For image handling in Tkinter
 
 This tool can be extended to build **virtual whiteboards**, **gesture controlled apps**, or even **AR/VR interactions** in real-time.
