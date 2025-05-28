@@ -40,11 +40,11 @@ This project demonstrates how **gesture based interfaces** can be used to create
 
 ### 🔴 Tech Stack
 
-     🔹 **Python 3** – Primary programming language
-     🔹 **OpenCV** – For webcam integration and image processing
-     🔹 **MediaPipe** – For advanced real-time hand tracking
-     🔹 **Tkinter** – To create the GUI canvas and interface
-     🔹 **NumPy** – For coordinate and pixel level operations
-     🔹 **Pillow (PIL)** – For image handling in Tkinter
+     🔹 Python 3 – Primary programming language
+     🔹 OpenCV – For webcam integration and image processing
+     🔹 MediaPipe – For advanced real-time hand tracking
+     🔹 Tkinter – To create the GUI canvas and interface
+     🔹 NumPy – For coordinate and pixel level operations
+     🔹 Pillow (PIL) – For image handling in Tkinter
 
 This tool can be extended to build **virtual whiteboards**, **gesture controlled apps**, or even **AR/VR interactions** in real-time.
