@@ -1,7 +1,5 @@
 ## ✋🖌️ Drawing with Just Your Fingers. No Touch Required 🚀.
 
-![P1](https://github.com/user-attachments/assets/6fd888e3-2cb6-46f6-9788-ef4f258f5aa2)
-
 I'm excited to introduce my latest project, **Virtual Hand Writer**. A real-time computer vision application that lets you **draw on a digital canvas using just your hand gestures** via a webcam 🖐️💻🎨.
 
 It uses **hand tracking and gesture recognition** to detect when your index finger is raised (and the middle finger is down), enabling a "pen mode" that draws directly on the screen without touching anything.
